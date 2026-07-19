@@ -1,0 +1,6 @@
+{
+  "name": "TrustLine Insurance",
+  "description": "A premium insurtech portal for exploring, purchasing, and managing custom health, life, motor, travel, home, and business insurance plans with automated claims tracking and expert underwriting coverage recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
